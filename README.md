@@ -16,7 +16,7 @@ Using structural and demographic predictors (e.g., social vulnerability, healthc
 ### Option 1: Recommended (Google Colab)
 1. Open the notebooks directly in Google Colab using the links provided in this repo.
 2. All datasets are accessible via the following Google Drive folder:  
-   [STATS-4241 Google Drive](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-globalnav-goto)
+   [STATS-4241 Google Drive](https://drive.google.com/drive/folders/18C_1ySJlDdzOYVdi1PIUqRUfJzhhOmNr?usp=sharing)
 3. You may need to **change file paths** to match your Google Drive mount directory in Colab (e.g., `/content/drive/MyDrive/STATS-4241/...`).
 
 ### Option 2: Local (Not Recommended)
