@@ -25,5 +25,3 @@ Using structural and demographic predictors (e.g., social vulnerability, healthc
 3. Update file paths in the notebooks to point to your local data files.
 4. Run the notebooks using Jupyter or VS Code with a Python environment that includes required libraries (e.g., pandas, scikit-learn, matplotlib, seaborn).
 
-## Folder Structure
-
