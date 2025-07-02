@@ -21,7 +21,7 @@ Using structural and demographic predictors (e.g., social vulnerability, healthc
 
 ### Option 2: Local (Not Recommended)
 1. Clone or download this GitHub repository.
-2. Download all datasets from the Google Drive folder linked above.
+2. Download all datasets from the Google Drive folder linked above or simply download the STATS-4241 folder above.
 3. Update file paths in the notebooks to point to your local data files.
 4. Run the notebooks using Jupyter or VS Code with a Python environment that includes required libraries (e.g., pandas, scikit-learn, matplotlib, seaborn).
 
